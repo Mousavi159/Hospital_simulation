@@ -1,4 +1,4 @@
-# Import necessary libraries
+# Patient flow without exponetial distribution
 import random  # For generating random numbers
 import simpy  # For simulating events over time
 import matplotlib.pyplot as plt  # For data visualization
